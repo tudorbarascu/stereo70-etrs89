@@ -8,4 +8,4 @@ This repo should describe how to properly use proj4 with the official Romanian p
 their correspondent in WGS84.
 
 - The ``grids/stereo70_etrs89A.gsb`` file is a [standard binary shift grid](https://en.wikipedia.org/wiki/NTv2)
- for Romania, build by [Daniel Urdă](https://github.com/danieluct/ntv2generator)
+ for Romania, provided and created by [Daniel Urdă](https://github.com/danieluct/ntv2generator)
